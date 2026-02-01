@@ -1,5 +1,4 @@
 # restaurant-management-webapp
-Team project – Web application for restaurant management built with PHP and MySQL.
 
 Academic team project: a PHP/MySQL web application to manage a restaurant activity (login, dashboard, and data management).
 
