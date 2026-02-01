@@ -19,8 +19,13 @@ Academic team project: a PHP/MySQL web application to manage a restaurant activi
 4. Open `index.php` in your browser.
 5. Login with the following credentials:
 
-## Demo Access
+## Preview
+![Dashboard preview](screenshot.png)
 
+## 🎥 Video Demo
+[![Watch the demo](video-preview.png)](https://youtube.com/TON-LIEN)
+
+## Demo Access
 ⚠️ These accounts are provided for demonstration purposes only.
 
 **Admin account**
