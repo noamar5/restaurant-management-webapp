@@ -18,7 +18,7 @@ Academic team project: a PHP/MySQL web application to manage a restaurant activi
 2. Create a MySQL database and import the provided SQL file (if available).
 3. Update database credentials in the connection file.
 4. Open `index.php` in your browser.
-5. Login with the following credentials :
+5. Login with the following credentials:
 
 ## Demo Access
 
