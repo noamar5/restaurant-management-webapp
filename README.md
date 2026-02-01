@@ -23,7 +23,7 @@ Academic team project: a PHP/MySQL web application to manage a restaurant activi
 ![Dashboard preview](screenshot.png)
 
 ## 🎥 Video Demo
-[![Watch the demo](video-preview.png)](https://youtube.com/TON-LIEN)
+[![Watch the demo](video-preview.png)](https://youtu.be/mHOll4mHPMs)
 
 ## Demo Access
 ⚠️ These accounts are provided for demonstration purposes only.
